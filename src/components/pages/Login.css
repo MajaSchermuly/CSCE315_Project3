@@ -1,0 +1,17 @@
+@media all and (min-width: 480px) {
+    .Login {
+        padding: 60px 0;
+        font: sans-serif;
+        font-size: 20px;
+    }
+
+    .Login form {
+        margin: 0 auto;
+        max-width: 230px;
+    }
+
+    .nav-links {
+        color: darkgray !important;
+    }
+
+}
